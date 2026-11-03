@@ -31,6 +31,8 @@ Pick one:
 
 The game starts Capri Voz, her voice server, on its own. Her window lives in the Cyber Engine Tweaks overlay (your CET key, which the launcher shows you).
 
+**You don't need the launcher to play.** Once everything is green, start the game as always (Steam, GOG, Epic or Vortex) and Capri starts with it. Open the launcher again only to update her, change her setup, or report a problem.
+
 ## What the launcher does
 
 - **Finds the game** in Steam (every library), GOG and Epic, or wherever you point it.
@@ -38,9 +40,10 @@ The game starts Capri Voz, her voice server, on its own. Her window lives in the
 - **Installs Capri** your way: with Vortex (it opens Capri's file on Nexus), or straight into the game folder. Installed directly, it tells you when there's a new version and updates her in one click.
 - **Sets her up without opening the game**: her languages, who she thinks with, who speaks for her and her ears (microphone). **Player2** is the easiest: press *Connect*, approve Capri in your browser, done.
 - **Installs her local voice** (about 900 MB, once) and shows each step.
+- **OmniVoice, optional, for strong graphics cards**: her same voice cloned live on an NVIDIA card (6 GB of video memory or more), more natural and expressive. Listen to a sample first; installing it leaves everything ready (her cloned voice, the server, and Capri Voz using it). It's heavy: about 6.5 GB to download, and on cards with little memory she may lag while you play, so the launcher checks your card and tells you.
 - **Tests everything outside the game**: she speaks, she hears your microphone, her AI answers.
 - **Explains the classic problems**: which mod broke the game's scripts when Capri only says *"load a save"*, which key opens her window, old leftover files, a microphone blocked by Windows, a voice install that failed halfway.
-- **Copy report**: a plain-text summary for the mod's Posts tab. It never includes keys.
+- **Report a problem**: it reads the logs of your last game session (the game's, RED4ext's and its plugins', Cyber Engine Tweaks' and its mods', Capri Voz's, and the game's crash note) and builds a report for the mod's Bugs tab on Nexus. It never includes keys, your Windows user name or e-mails.
 
 | Install & mods | Her mind (in Spanish) | Voice & mic |
 |---|---|---|
@@ -61,6 +64,7 @@ What it downloads, only when you press the button:
 |---|---|---|
 | Capri (direct install) and her optional voices | this page's Releases (the same files as on Nexus) | 24 MB, 7 MB each |
 | Her local voice engine | python.org, pypi.org, download.pytorch.org, huggingface.co | about 900 MB |
+| OmniVoice (optional) | python.org, pypi.org, download.pytorch.org, huggingface.co | about 6.5 GB |
 | `manifest.json` (newest Capri version and requirement minimums) | this page | a few KB |
 
 ## Credits
