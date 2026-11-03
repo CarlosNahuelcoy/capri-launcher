@@ -26,18 +26,19 @@ The launcher checks each one and its version, and opens its Nexus page if it's m
 Pick one:
 
 - **With the launcher (guided):** download `CapriLauncher.exe`, run it and follow *Quick start* from top to bottom: requirements, Capri, the AI she thinks with, her voice and a test of everything. Then press **Play**.
-- **With Vortex:** press *Mod Manager Download* on [Capri's Files tab](https://www.nexusmods.com/cyberpunk2077/mods/37034?tab=files). You can still open the launcher afterwards to check that every step went right.
+- **With Vortex or Mod Organizer 2:** press *Mod Manager Download* on [Capri's Files tab](https://www.nexusmods.com/cyberpunk2077/mods/37034?tab=files). You can still open the launcher afterwards to check that every step went right: it reads MO2's mods too.
 - **By hand:** extract Capri's zip into the game folder (the one with `bin`, `r6` and `red4ext`).
 
 The game starts Capri Voz, her voice server, on its own. Her window lives in the Cyber Engine Tweaks overlay (your CET key, which the launcher shows you).
 
-**You don't need the launcher to play.** Once everything is green, start the game as always (Steam, GOG, Epic or Vortex) and Capri starts with it. Open the launcher again only to update her, change her setup, or report a problem.
+**You don't need the launcher to play.** Once everything is green, start the game as always (Steam, GOG, Epic, Vortex, or Mod Organizer 2) and Capri starts with it. Open the launcher again only to update her, change her setup, or report a problem.
 
 ## What the launcher does
 
 - **Finds the game** in Steam (every library), GOG and Epic, or wherever you point it.
 - **Checks every requirement and its version**, plus the game version. Anything missing or too old gets a button to its Nexus page.
 - **Installs Capri** your way: with Vortex (it opens Capri's file on Nexus), or straight into the game folder. Installed directly, it tells you when there's a new version and updates her in one click.
+- **Works with Mod Organizer 2**: it finds MO2's instance for your game and checks Capri and her requirements inside its mods. If MO2 manages the game, installing or updating her from the launcher puts her in MO2's list of mods (with her version, so MO2 knows it), never loose in the game folder. Start the game from MO2 as usual.
 - **Sets her up without opening the game**: her languages, who she thinks with, who speaks for her and her ears (microphone). **Player2** is the easiest: press *Connect*, approve Capri in your browser, done.
 - **Installs her local voice** (about 900 MB, once) and shows each step.
 - **OmniVoice, optional, for strong graphics cards**: her same voice cloned live on an NVIDIA card (6 GB of video memory or more), more natural and expressive. Listen to a sample first; installing it leaves everything ready (her cloned voice, the server, and Capri Voz using it). It's heavy: about 6.5 GB to download, and on cards with little memory she may lag while you play, so the launcher checks your card and tells you.
