@@ -1,11 +1,11 @@
 {
     "schema":  1,
     "launcher":  {
-                     "version":  "1.3.2",
+                     "version":  "1.3.3",
                      "page":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/latest",
-                     "exe":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/launcher-v1.3.2/CapriLauncher.exe",
-                     "size":  4290560,
-                     "sha256":  "68a29a322ac92a44fdc81c451fb945b55e2243d206428ede01475dd3a758b962"
+                     "exe":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/launcher-v1.3.3/CapriLauncher.exe",
+                     "size":  4331008,
+                     "sha256":  "25ef1a2ef7cd0cefdfd2b30f1a4ce5d044ea1f2dadc33a92f445a9b65066010d"
                  },
     "game":  {
                  "version":  "2.5",
@@ -276,7 +276,8 @@
                              "nexus":  14192,
                              "min":  "0.8.0",
                              "files":  [
-                                           "red4ext/plugins/RedHttpClient/RedHttpClient.dll"
+                                           "red4ext/plugins/RedHttpClient/RedHttpClient.dll",
+                                           "r6/scripts/RedHttpClient/RedHttpClient.reds"
                                        ],
                              "dll":  "",
                              "log":  "RedHttpClient"
@@ -287,7 +288,9 @@
                              "nexus":  14139,
                              "min":  "0.11.0",
                              "files":  [
-                                           "red4ext/plugins/RedData/RedData.dll"
+                                           "red4ext/plugins/RedData/RedData.dll",
+                                           "r6/scripts/RedData/RedData.reds",
+                                           "r6/scripts/RedData/RedData.Json.reds"
                                        ],
                              "dll":  "",
                              "log":  "RedData"
@@ -298,7 +301,8 @@
                              "nexus":  13378,
                              "min":  "0.16.0",
                              "files":  [
-                                           "red4ext/plugins/RedFileSystem/RedFileSystem.dll"
+                                           "red4ext/plugins/RedFileSystem/RedFileSystem.dll",
+                                           "r6/scripts/RedFileSystem/RedFileSystem.reds"
                                        ],
                              "dll":  "",
                              "log":  "RedFileSystem"
