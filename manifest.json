@@ -11,7 +11,7 @@
     "capri":  {
                   "version":  "1.5",
                   "nexusMod":  37034,
-                  "nexusFile":  0,
+                  "nexusFile":  172912,
                   "zip":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/capri-1.5/CapriPersonalityConstruct.zip",
                   "sha256":  "1ce9f82aca42fcc06460f9adaf15f0433660022cfdec088406df7492874fc6ee",
                   "size":  25001448,
