@@ -1,0 +1,253 @@
+{
+    "schema":  1,
+    "launcher":  {
+                     "version":  "1.0.0",
+                     "page":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/latest"
+                 },
+    "game":  {
+                 "version":  "2.5",
+                 "steamAppId":  1091500
+             },
+    "capri":  {
+                  "version":  "1.5",
+                  "nexusMod":  37034,
+                  "nexusFile":  0,
+                  "zip":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/capri-1.5/CapriPersonalityConstruct.zip",
+                  "sha256":  "1ce9f82aca42fcc06460f9adaf15f0433660022cfdec088406df7492874fc6ee",
+                  "size":  25001448,
+                  "files":  {
+                                "archive/pc/mod/CapriPersonalityConstruct.archive":  "d44f408e412bb9a31d2c324bf80229d06f94ee43a4b6f4160fb0102e48051f55",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriPersonalityConstruct.dll":  "f26b3a5f713569f764ad630ddc949225099d05e30a12bd2eb0a5b0d4f3ddade5",
+                                "bin/x64/plugins/cyber_engine_tweaks/mods/CapriPersonalityConstruct/init.lua":  "857c5bac1fb8afa820559c53099dbb6c662060193c8c1261ea77a9f9052f8a40",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Actions.reds":  "3958affeea12f6b7d883435f86a777e37444747cddf7f037de54c91a0f166297",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Avatar.reds":  "7a42daedd79b6afda296b0fb1658c0a3c8ad14f664446cb223df925a7f0ec201",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Breach.reds":  "e072d727a20cc2f9683363ec02080b31989dc0588ee5c456b44841ecfae5a9a7",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Car.reds":  "e469b3a46dfa0d0a04a6a481777634f4301917015455ac4cd2e6f21231241873",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Config.reds":  "efa7d479a3d0b88df757bf0544885f16d53d548a73b9e5d77a2ebc20b249154e",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Context.reds":  "57c9281ce22d91e4bdc5804f6625e0118c6e431a32ede6df582d927ba3b81251",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Hud.reds":  "ec85deeb2b7741167300aa9838389f3455bcbdf083e779b9bb90654c7495eec8",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Input.reds":  "8f98e91f844f4cbcfe4aa9435425f0cae3b423021b82ad4cb13a524e6d7ba008",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Locale.reds":  "34669aa915931922360da72c518e40aec303b15b40844b9ae04a55f6d207a63d",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Player2.reds":  "3f45a618cd0873d1f92f0e32ce3f24da7d67f2742129f55542653a33a9603da7",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.PoseData.reds":  "dcdc8379c40843b8a5e6eb70ff97960c8989f174390c46a940d176b71de946aa",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Presence.reds":  "d2203c1cc913b1a4a1cb34d82a7fe56e17cb2b7d9273f04b5657f43901ae96a8",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Reactions.reds":  "3572c75499cf7fd54468c3c34d2fe76224bb34c00e179f419c2d72e633b595ac",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Screen.reds":  "c246d55a6fd567dbbee9a52a3743e5c938a7d1ca147713f9fc23ca02914c013d",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Senses.reds":  "e052fd47f5741e7f2959e2d6bba9f492802b3c5f55dea9c611494c93611cd4ae",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Sprite.reds":  "5ac8466bb4c34b8c1b1eafc9ebd068b6344852a5c01e79a2f2e61d646fa8124d",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.SpriteData.reds":  "4c1d387da68c60b79a0eb8ac8e8c07cddd583bfee0d17f938aff2d2baac781aa",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Storage.reds":  "bdd6b1760fd06527fb94fadc6de91cee0cd0d5c7f4c3722be2dbd0f4e5bea875",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.System.reds":  "15d245502c423aeefa9d83e9d960dcc1259eadaabbdb9c39ce7a76854345f33c",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.Targets.reds":  "a4bfcab2d0fc692320994517862ae66b09f41fca331c4e739104861d2b037bd1",
+                                "r6/scripts/CapriPersonalityConstruct/Capri.WorldBeam.reds":  "91a3839ecc8829b1be3bc19f44176a18ab06fa7ab9b965fe6255a42500364c61",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/CapriVoz.ps1":  "4b8b0594226cea1b025e1c149061b9c3caf08f6438aa1a09d68acf772ef33b48",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/ajustes.html":  "2b0f87c16e011c3f466813927016641f8c397e80bc58cf4cacc5228bc839b86f",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/Iniciar Capri Voz.bat":  "be8ace5e99807477b17e2695064dfd718eebb3ece095a4ad0692062410a2ac4d",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/LEEME.txt":  "cf990804cf9819f376d0d72185818eff201c61e9f49552a192604dad72d46db2",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/README.txt":  "0b08731202029274f34061b2655973b6cd177b9a491891a3e3ee1a7ba0a26756",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/capri_motor.py":  "d73bbdf14cc7e34a9efa3d20b0311e251066aa5de5c17e0efb7adf023863bdee",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/instalar_motor.ps1":  "4fb3144a92e9973d91e37536e8f3eb3ce358482ecc0ca73119e0d6dfcacf0d98",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri.wav":  "9ff1bf3dcad4ec0e8fc3f2e2e3e6ba6477ee740b36a6cc214a26b7818163b8be",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_english.safetensors":  "fd5db725f1e4fd5708e38f8665dce3da21a731ff81cef93be35e190a693cd28c",
+                                "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_spanish.safetensors":  "c46f17b5ccf8c76da9f7bb0a5edd2b0b4f6ff3882b3782bc35e41d6ad6312aba"
+                            }
+              },
+    "capriHistory":  [
+                         {
+                             "version":  "1.4",
+                             "files":  {
+                                           "archive/pc/mod/CapriPersonalityConstruct.archive":  "d44f408e412bb9a31d2c324bf80229d06f94ee43a4b6f4160fb0102e48051f55",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriPersonalityConstruct.dll":  "f26b3a5f713569f764ad630ddc949225099d05e30a12bd2eb0a5b0d4f3ddade5",
+                                           "bin/x64/plugins/cyber_engine_tweaks/mods/CapriPersonalityConstruct/init.lua":  "857c5bac1fb8afa820559c53099dbb6c662060193c8c1261ea77a9f9052f8a40",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Actions.reds":  "3958affeea12f6b7d883435f86a777e37444747cddf7f037de54c91a0f166297",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Avatar.reds":  "7a42daedd79b6afda296b0fb1658c0a3c8ad14f664446cb223df925a7f0ec201",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Breach.reds":  "e072d727a20cc2f9683363ec02080b31989dc0588ee5c456b44841ecfae5a9a7",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Car.reds":  "e469b3a46dfa0d0a04a6a481777634f4301917015455ac4cd2e6f21231241873",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Config.reds":  "efa7d479a3d0b88df757bf0544885f16d53d548a73b9e5d77a2ebc20b249154e",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Context.reds":  "57c9281ce22d91e4bdc5804f6625e0118c6e431a32ede6df582d927ba3b81251",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Hud.reds":  "ec85deeb2b7741167300aa9838389f3455bcbdf083e779b9bb90654c7495eec8",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Input.reds":  "8f98e91f844f4cbcfe4aa9435425f0cae3b423021b82ad4cb13a524e6d7ba008",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Locale.reds":  "34669aa915931922360da72c518e40aec303b15b40844b9ae04a55f6d207a63d",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Player2.reds":  "3f45a618cd0873d1f92f0e32ce3f24da7d67f2742129f55542653a33a9603da7",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.PoseData.reds":  "dcdc8379c40843b8a5e6eb70ff97960c8989f174390c46a940d176b71de946aa",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Presence.reds":  "d2203c1cc913b1a4a1cb34d82a7fe56e17cb2b7d9273f04b5657f43901ae96a8",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Reactions.reds":  "3572c75499cf7fd54468c3c34d2fe76224bb34c00e179f419c2d72e633b595ac",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Screen.reds":  "c246d55a6fd567dbbee9a52a3743e5c938a7d1ca147713f9fc23ca02914c013d",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Senses.reds":  "e052fd47f5741e7f2959e2d6bba9f492802b3c5f55dea9c611494c93611cd4ae",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Sprite.reds":  "5ac8466bb4c34b8c1b1eafc9ebd068b6344852a5c01e79a2f2e61d646fa8124d",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.SpriteData.reds":  "4c1d387da68c60b79a0eb8ac8e8c07cddd583bfee0d17f938aff2d2baac781aa",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Storage.reds":  "bdd6b1760fd06527fb94fadc6de91cee0cd0d5c7f4c3722be2dbd0f4e5bea875",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.System.reds":  "15d245502c423aeefa9d83e9d960dcc1259eadaabbdb9c39ce7a76854345f33c",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.Targets.reds":  "a4bfcab2d0fc692320994517862ae66b09f41fca331c4e739104861d2b037bd1",
+                                           "r6/scripts/CapriPersonalityConstruct/Capri.WorldBeam.reds":  "91a3839ecc8829b1be3bc19f44176a18ab06fa7ab9b965fe6255a42500364c61",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/CapriVoz.ps1":  "d7d2fc725d21bf6d64ac8f460eb75bbda0ebd2c6e27c7ff92661d0faaf96c3a2",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/ajustes.html":  "2b0f87c16e011c3f466813927016641f8c397e80bc58cf4cacc5228bc839b86f",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/Iniciar Capri Voz.bat":  "be8ace5e99807477b17e2695064dfd718eebb3ece095a4ad0692062410a2ac4d",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/LEEME.txt":  "cf990804cf9819f376d0d72185818eff201c61e9f49552a192604dad72d46db2",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/README.txt":  "0b08731202029274f34061b2655973b6cd177b9a491891a3e3ee1a7ba0a26756",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/capri_motor.py":  "d73bbdf14cc7e34a9efa3d20b0311e251066aa5de5c17e0efb7adf023863bdee",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/instalar_motor.ps1":  "4fb3144a92e9973d91e37536e8f3eb3ce358482ecc0ca73119e0d6dfcacf0d98",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri.wav":  "9ff1bf3dcad4ec0e8fc3f2e2e3e6ba6477ee740b36a6cc214a26b7818163b8be",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_english.safetensors":  "fd5db725f1e4fd5708e38f8665dce3da21a731ff81cef93be35e190a693cd28c",
+                                           "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_spanish.safetensors":  "c46f17b5ccf8c76da9f7bb0a5edd2b0b4f6ff3882b3782bc35e41d6ad6312aba"
+                                       }
+                         }
+                     ],
+    "voices":  [
+                   {
+                       "id":  "french",
+                       "name":  "French",
+                       "nameEs":  "Francés",
+                       "nexusFile":  172709,
+                       "zip":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/capri-1.5/CapriVoice_French.zip",
+                       "sha256":  "fc6f87307aaf504cef671bd91ef820ed48a133b9778ece87409c2f9edb645ce0",
+                       "size":  7131337,
+                       "file":  "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_french.safetensors"
+                   },
+                   {
+                       "id":  "german",
+                       "name":  "German",
+                       "nameEs":  "Alemán",
+                       "nexusFile":  172711,
+                       "zip":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/capri-1.5/CapriVoice_German.zip",
+                       "sha256":  "f16efe2bd79ec9c07a70a63d2b9410619f6b90a5826c9f51e796c89a3a1cfa70",
+                       "size":  7130708,
+                       "file":  "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_german.safetensors"
+                   },
+                   {
+                       "id":  "italian",
+                       "name":  "Italian",
+                       "nameEs":  "Italiano",
+                       "nexusFile":  172712,
+                       "zip":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/capri-1.5/CapriVoice_Italian.zip",
+                       "sha256":  "18fc7399814baf9dd955f5d108c8879309d4046b44055814b17ba7faae26cc54",
+                       "size":  7123842,
+                       "file":  "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_italian.safetensors"
+                   },
+                   {
+                       "id":  "portuguese",
+                       "name":  "Portuguese",
+                       "nameEs":  "Portugués",
+                       "nexusFile":  172713,
+                       "zip":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/capri-1.5/CapriVoice_Portuguese.zip",
+                       "sha256":  "015211cbd0d315873bfd6558d65c2765a653d2e1082c4a1605183431d72ae782",
+                       "size":  7118750,
+                       "file":  "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_portuguese.safetensors"
+                   }
+               ],
+    "requirements":  [
+                         {
+                             "id":  "red4ext",
+                             "name":  "RED4ext",
+                             "nexus":  2380,
+                             "min":  "1.31.0",
+                             "files":  [
+                                           "red4ext/RED4ext.dll",
+                                           "bin/x64/winmm.dll"
+                                       ],
+                             "dll":  "red4ext/RED4ext.dll",
+                             "log":  ""
+                         },
+                         {
+                             "id":  "redscript",
+                             "name":  "redscript",
+                             "nexus":  1511,
+                             "min":  "0.5.32",
+                             "files":  [
+                                           "engine/tools/scc.exe",
+                                           "engine/tools/scc_lib.dll"
+                                       ],
+                             "dll":  "",
+                             "log":  "",
+                             "hashFile":  "engine/tools/scc_lib.dll",
+                             "hashes":  {
+                                            "114851d192ec815119bbfa2272da572bf026fea8e5c0a910a4c8ad84b877dc09":  "0.5.32",
+                                            "49eb60a3613c990cd13b6136e827a74f9f64ad68e2f911d8c93e4e3d3f53c100":  "0.5.31",
+                                            "4fd5a71b627b8e1c78025b0f695a26f72ba80ddaca93fb7e9f8f199162c90bc2":  "0.5.30"
+                                        }
+                         },
+                         {
+                             "id":  "cet",
+                             "name":  "Cyber Engine Tweaks",
+                             "nexus":  107,
+                             "min":  "1.38.1",
+                             "files":  [
+                                           "bin/x64/plugins/cyber_engine_tweaks.asi",
+                                           "bin/x64/version.dll"
+                                       ],
+                             "dll":  "bin/x64/plugins/cyber_engine_tweaks.asi",
+                             "log":  ""
+                         },
+                         {
+                             "id":  "codeware",
+                             "name":  "Codeware",
+                             "nexus":  7780,
+                             "min":  "1.21.2",
+                             "files":  [
+                                           "red4ext/plugins/Codeware/Codeware.dll"
+                                       ],
+                             "dll":  "red4ext/plugins/Codeware/Codeware.dll",
+                             "log":  "Codeware"
+                         },
+                         {
+                             "id":  "redhttpclient",
+                             "name":  "RedHttpClient",
+                             "nexus":  14192,
+                             "min":  "0.8.0",
+                             "files":  [
+                                           "red4ext/plugins/RedHttpClient/RedHttpClient.dll"
+                                       ],
+                             "dll":  "",
+                             "log":  "RedHttpClient"
+                         },
+                         {
+                             "id":  "reddata",
+                             "name":  "RedData",
+                             "nexus":  14139,
+                             "min":  "0.11.0",
+                             "files":  [
+                                           "red4ext/plugins/RedData/RedData.dll"
+                                       ],
+                             "dll":  "",
+                             "log":  "RedData"
+                         },
+                         {
+                             "id":  "redfilesystem",
+                             "name":  "RedFileSystem",
+                             "nexus":  13378,
+                             "min":  "0.16.0",
+                             "files":  [
+                                           "red4ext/plugins/RedFileSystem/RedFileSystem.dll"
+                                       ],
+                             "dll":  "",
+                             "log":  "RedFileSystem"
+                         },
+                         {
+                             "id":  "archivexl",
+                             "name":  "ArchiveXL",
+                             "nexus":  4198,
+                             "min":  "1.28.6",
+                             "files":  [
+                                           "red4ext/plugins/ArchiveXL/ArchiveXL.dll"
+                                       ],
+                             "dll":  "red4ext/plugins/ArchiveXL/ArchiveXL.dll",
+                             "log":  "ArchiveXL"
+                         },
+                         {
+                             "id":  "modsettings",
+                             "name":  "Mod Settings",
+                             "nexus":  4885,
+                             "min":  "0.2.28",
+                             "files":  [
+                                           "red4ext/plugins/mod_settings/mod_settings.dll"
+                                       ],
+                             "dll":  "red4ext/plugins/mod_settings/mod_settings.dll",
+                             "log":  "Mod Settings"
+                         }
+                     ],
+    "engine":  {
+                   "sizeMb":  900,
+                   "diskMb":  2500,
+                   "sources":  "python.org, pypi.org, download.pytorch.org, huggingface.co"
+               }
+}
