@@ -1,11 +1,11 @@
 {
     "schema":  1,
     "launcher":  {
-                     "version":  "1.3.10",
+                     "version":  "1.3.11",
                      "page":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/latest",
-                     "exe":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/launcher-v1.3.10/CapriLauncher.exe",
-                     "size":  4449280,
-                     "sha256":  "5ee0dc584b5c17bc1c36c9cce384cb2a59e5c6bb969073ad8b7a51e621b249c7"
+                     "exe":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/launcher-v1.3.11/CapriLauncher.exe",
+                     "size":  4515328,
+                     "sha256":  "011c63881f9e1394031452ad447764d90d9b2911a33f7d56860f30c9810653dc"
                  },
     "game":  {
                  "version":  "2.5",
