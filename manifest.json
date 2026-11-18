@@ -753,6 +753,16 @@
                        "sha256":  "015211cbd0d315873bfd6558d65c2765a653d2e1082c4a1605183431d72ae782",
                        "size":  7118750,
                        "file":  "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_portuguese.safetensors"
+                   },
+                   {
+                       "id":  "russian",
+                       "name":  "Russian",
+                       "nameEs":  "Ruso",
+                       "nexusFile":  180115,
+                       "zip":  "https://github.com/CarlosNahuelcoy/capri-launcher/releases/download/capri-1.22/CapriVoice_Russian.zip",
+                       "sha256":  "c7dcc8f9e5ee18b08332dec64f606f86182a8d4393d6dc52c4c4716d37ae973c",
+                       "size":  4798700,
+                       "file":  "red4ext/plugins/CapriPersonalityConstruct/CapriVoz/voces/capri_russian.safetensors"
                    }
                ],
     "requirements":  [
